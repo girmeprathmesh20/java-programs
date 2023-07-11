@@ -1,5 +1,5 @@
-package Marvellous;
-
+ package Marvellous;
+//ij,ki,iok,o,i,ok,p,
 public class Arithematic
 {
      public int Value1;
